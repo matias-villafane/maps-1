@@ -52,7 +52,8 @@ Para ello debemos:
     - Probemos agregar una infoWindow a cada local.
     [Documentación eventos en google maps](https://developers.google.com/maps/documentation/javascript/events?hl=es-419#EventsOverview)
     
-    ```google.maps.event.addListener(
+    ```
+    google.maps.event.addListener(
       local,
       'click',
       function() {
