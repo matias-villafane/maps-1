@@ -50,7 +50,7 @@ Para ello debemos:
     - Probemos agregar un infoWindow a nuestra casa central:
       ```var contenidoCasaCentral = '<h2>Casa Central</h2>';```
     - Probemos agregar una infoWindow a cada local.
-    [Documentación eventos en google maps](https://developers.google.com/maps/documentation/javascript/events?hl=es-419#EventsOverview).
+    [Documentación eventos en google maps](https://developers.google.com/maps/documentation/javascript/events?hl=es-419#EventsOverview)
     
     ```google.maps.event.addListener(
       local,
