@@ -59,4 +59,5 @@ Para ello debemos:
         console.log(this);
         infoWindows.setContent(this.content);
         infoWindows.open(map, this);
-      });```
+      });
+    ```
